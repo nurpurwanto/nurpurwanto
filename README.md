@@ -20,7 +20,7 @@ As a Data Science Enthusiast, I enjoy using my obsessive attention to detail, my
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I'm an alumnus of Data Science bootcamp from [dibimbing.id](https://dibimbing.id/);
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Data Science on [DQLAB](https://dqlab.id/signup?referralCode=NURP5920) and Business Intelligence on [RAKAMIN](https://www.rakamin.com/);
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I regulary write articles on [medium](https://nurpurwanto.medium.com);
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I regulary write articles on [medium](https://medium.com/@nurpurwanto);
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: nurpurwanto@outlook.com;
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://drive.google.com/file/d/1hGMjLPTZNZT2QZ2J2zYmUngypjt5-anU/view?usp=sharing).
 
