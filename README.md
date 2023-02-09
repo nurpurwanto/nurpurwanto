@@ -22,7 +22,7 @@ As a Data Science Enthusiast, I enjoy using my obsessive attention to detail, my
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I regulary write articles on [medium](https://medium.com/@nurpurwanto);
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: nurpurwanto@outlook.com;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://drive.google.com/file/d/1hGMjLPTZNZT2QZ2J2zYmUngypjt5-anU/view?usp=sharing).
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://drive.google.com/file/d/1bPB086kgBvnrUhJGC9O30pnH3fzi28r0/view?usp=sharing).
 
 </br>
 
